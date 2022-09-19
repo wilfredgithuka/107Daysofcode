@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vimtutor on #107DaysofCode</title>
+    <link>https://107.githuka.com/tags/vimtutor/</link>
+    <description>Recent content in vimtutor on #107DaysofCode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://107.githuka.com/tags/vimtutor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>19092022 - Day 5 of 107</title>
+      <link>https://107.githuka.com/posts/19092022/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://107.githuka.com/posts/19092022/</guid>
+      <description>Day 5 of 107 Today is the fifth day of the #107DaysofCode.
+What Did I Learn Today? Using Git for project management.
+Today I made progress in my Vim journey. Vim is a great text editor. I think its time I moved from Emacs to Vim permanently.
+Data Science - Much of my days work involves alot of data science work, I have managed to automate most processes at work</description>
+    </item>
+    
+  </channel>
+</rss>
